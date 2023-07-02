@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+#Gas snapshot
+.gas-snapshot
+
+#VS Files
+.vscode/
